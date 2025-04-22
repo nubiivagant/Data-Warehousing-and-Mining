@@ -1,6 +1,6 @@
 # Data Warehousing and Mining 📊
 
-Comprehensive implementation of Data Preprocessing, EDA, Machine Learning Models, and Data Mining Techniques using Python.
+This repository contains practical implementations from the Data Warehousing and Mining (DWM) algorithms. It covers key concepts such as data preprocessing, OLAP operations, ETL transformations, and machine learning algorithms applied to data mining.
 
 ---
 
