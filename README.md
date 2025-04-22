@@ -12,11 +12,11 @@ Each module demonstrates real-world applications using Python libraries like `pa
 
 ---
 
-## 📂 Repository Structure
+## 📂 Structure
 
-| Folder/File | Description |
+| Files | Description |
 | :--- | :--- |
-| `datasets/` | Contains datasets used for different analysis and modeling tasks. |
+| `datasets/` | Contains datasets. |
 | `Apriori Algorithm.ipynb` | Implementation of the Apriori algorithm for market basket analysis. |
 | `DataPreprocessing.ipynb` | Data cleaning, feature selection, feature scaling, and transformation techniques. |
 | `Decision_Tree.ipynb` | Building classification models using Decision Trees. |
@@ -26,13 +26,3 @@ Each module demonstrates real-world applications using Python libraries like `pa
 | `Linear Regression.ipynb` | Predictive modeling using Simple and Multiple Linear Regression. |
 | `Naive_Bayes.ipynb` | Implementation of Naive Bayes classifier for probabilistic prediction. |
 | `treat_missing_values.ipynb` | Techniques for handling and imputing missing values. |
-
----
-
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/nubiivagant/Data-Warehousing-and-Mining.git
-cd Data-Warehousing-and-Mining
